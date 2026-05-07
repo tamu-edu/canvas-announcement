@@ -1,1 +1,1 @@
-This site is under maintenance. For more information please visit [status.it.tamu.edu](https://status.it.tamu.edu)
+A quick, simple repo for announcements related to Canvas.
